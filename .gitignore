@@ -1,0 +1,57 @@
+.env.*
+# macOS system files
+.DS_Store
+
+# Spotlight folder settings
+.Spotlight-V100/
+.Trashes
+
+# Folder configuration file
+.AppleDouble
+
+# Recycle Bin used on file shares
+__MACOSX/
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+TheVolumeSettingsFolder
+Icon?
+
+# .AppleDB, .AppleDesktop and Network Trash Folder
+Desktop DB
+Desktop DF
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code folder
+.vscode/
+
+# Temporary files
+*~
+
+# Lock files
+*.lock
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Compiled binaries
+*.pyc
+*.pyo
+__pycache__/
